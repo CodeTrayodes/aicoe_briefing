@@ -1,0 +1,16 @@
+{
+  "model": "claude-sonnet-4-5",
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git status)",
+      "Bash(git log *)",
+      "Bash(date)",
+      "Bash(node *)",
+      "Write(data/*)",
+      "Read(**)"
+    ]
+  }
+}

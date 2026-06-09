@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+.env.local
+.env*.local
+
+# data/ is committed — it is the database
+# context/ is committed — it feeds the routine
