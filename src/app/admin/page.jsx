@@ -36,14 +36,14 @@ function StatusBadge({ status }) {
   );
 }
 
-function Dots({ score, color }) {
+function RelevanceScore({ score, color }) {
   return (
-    <div className="flex items-center gap-1" title={`${score}/10`}>
-      {Array.from({length:10},(_,i)=>(
-        <span key={i} className="w-1 h-1 rounded-full"
-              style={{ background: i<score ? color : '#D5D0C8' }} />
-      ))}
-    </div>
+    <span
+      className="inline-flex min-w-[2.75rem] justify-center px-2 py-1 rounded-md text-xs font-bold"
+      title={`Relevance ${score}/10`}
+      style={{ background:'var(--c-sf2)', color, border:'1px solid var(--border)' }}>
+      {score}/10
+    </span>
   );
 }
 
@@ -131,6 +131,24 @@ export default function AdminPage() {
     navigator.clipboard.writeText(text).then(() => { setCopied(mode); showToast('Copied to clipboard', 'ok'); setTimeout(() => setCopied(null), 2000); });
   }
 
+  function copyCard(item) {
+    const text = [
+      `Title: ${item.headline}`,
+      '',
+      `Summary: ${item.summary}`,
+      '',
+      `LevelShift Lens: ${item.levelshiftAngle}`,
+      '',
+      `Article link: ${item.url}`
+    ].join('\n');
+
+    navigator.clipboard.writeText(text).then(() => {
+      setCopied(item.id);
+      showToast('Story copied to clipboard', 'ok');
+      setTimeout(() => setCopied(null), 2000);
+    });
+  }
+
   const today  = new Date().toLocaleDateString('en-GB', { weekday:'long', day:'numeric', month:'long' });
   const items  = (briefing?.items || []).sort((a,b) => ORDER.indexOf(a.category)-ORDER.indexOf(b.category)).filter(i => filter==='all'||i.category===filter);
   const isDone = briefing?.status==='approved' || briefing?.status==='sent';
@@ -143,7 +161,7 @@ export default function AdminPage() {
       <aside className="w-64 flex-shrink-0 border-r flex flex-col" style={{ background:'var(--surface)', borderColor:'var(--border)' }}>
         <div className="p-6 border-b" style={{ borderColor:'var(--border)' }}>
           <h1 className="text-2xl mb-1" style={{ fontFamily:'var(--font-serif)', color:'var(--tx)' }}>LevelShift</h1>
-          <p className="text-[10px] uppercase tracking-[0.08em]" style={{ fontFamily:'var(--font-mono)', color:'var(--mu)' }}>Intelligence</p>
+          <p className="text-[10px] uppercase tracking-[0.08em]" style={{ fontFamily:'var(--font-mono)', color:'var(--mu)' }}>AICOE Briefing</p>
         </div>
 
         <div className="flex-1 p-4">
@@ -203,7 +221,7 @@ export default function AdminPage() {
               <Copy size={14} />
               {copied==='full' ? 'Copied!' : 'Copy full briefing'}
             </button>
-            {!isDone && allFive && (
+            {/* {!isDone && allFive && (
               <button onClick={approve} className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-semibold shadow-md transition-all duration-200 hover:scale-[1.01] hover:shadow-lg" style={{ background:'linear-gradient(to top right, #007DB8, #006FA6)', color:'white' }}>
                 <CheckCircle size={16} />
                 Approve & ready to send
@@ -214,7 +232,7 @@ export default function AdminPage() {
                 <Sparkles size={16} />
                 Mark as sent
               </button>
-            )}
+            )} */}
           </div>
         </header>
 
@@ -307,6 +325,10 @@ export default function AdminPage() {
                               <ExternalLink size={12} />
                               Read article
                             </a>
+                            <button onClick={() => copyCard(item)} className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg border text-xs font-semibold transition-all duration-200 hover:border-[var(--c-ac)] hover:text-[var(--c-ac)]" style={{ borderColor:'var(--border)', color:'var(--mu)' }}>
+                              {copied===item.id ? <Check size={12} /> : <Copy size={12} />}
+                              {copied===item.id ? 'Copied!' : 'Copy story'}
+                            </button>
                             <button onClick={() => setEditing(ed=>({...ed,[item.id]:item.levelshiftAngle}))} className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg border text-xs font-semibold transition-all duration-200 hover:border-[var(--c-ac)] hover:text-[var(--c-ac)]" style={{ borderColor:'var(--border)', color:'var(--mu)' }}>
                               <Edit2 size={12} />
                               Edit lens
@@ -327,7 +349,7 @@ export default function AdminPage() {
                       </div>
                       <div className="flex items-center gap-2">
                         <span className="text-[10px] uppercase tracking-[0.08em] font-bold" style={{ fontFamily:'var(--font-mono)', color:'var(--mu)' }}>Relevance</span>
-                        <Dots score={item.relevanceScore||0} color={c.color} />
+                        <RelevanceScore score={item.relevanceScore||0} color={c.color} />
                       </div>
                     </div>
                   </div>

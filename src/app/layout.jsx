@@ -1,8 +1,8 @@
 import '../styles/globals.css';
 
 export const metadata = {
-  title: 'LevelShift Intelligence',
-  description: 'Daily AI briefing platform for the LevelShift team.',
+  title: 'LevelShift AICOE Intelligence',
+  description: 'Daily AI news briefing platform for the LevelShift team.',
 };
 
 export default function RootLayout({ children }) {
