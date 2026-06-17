@@ -1,11 +1,7 @@
 {
-  "5418b4019a619672": { "date": "2026-06-10", "headline": "Picking the right Copilot for the job: Tips from our experience at Microsoft" },
-  "deaa4c220d9497df": { "date": "2026-06-10", "headline": "Claude releases 20+ legal MCP connectors and expands Apple developer support" },
   "7d9c1d07b03e559e": { "date": "2026-06-10", "headline": "Health system AI adoption surges in 2026 with execs reporting increased ROI: survey" },
   "471a7bdc4888a658": { "date": "2026-06-10", "headline": "EY cybersecurity report pulled after probe finds 'AI hallucinations'" },
   "2ae2d27e9cf39e90": { "date": "2026-06-10", "headline": "EU AI Act transparency rules come into effect in August 2026" },
-  "72eba9cf28fc8928": { "date": "2026-06-09", "headline": "Unlock your productivity: Here are our Top 10 tips for using Microsoft 365 Copilot every day" },
-  "72f23978651869ba": { "date": "2026-06-09", "headline": "Salesforce Summer '26 Release: Agentforce Multi-Agent Orchestration reaches general availability June 15" },
   "6eb7e3a7ec5e54e5": { "date": "2026-06-09", "headline": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare" },
   "7b288843f472a3ed": { "date": "2026-06-09", "headline": "The $67B Hallucination Killing Enterprise AI" },
   "ead5757c48ecfc9b": { "date": "2026-06-09", "headline": "U.S. Companies Face EU AI Act's Possible August 2026 Compliance Deadline" },
@@ -18,5 +14,10 @@
   "eb56b6c51f16aa8d": { "date": "2026-06-16", "headline": "Microsoft Build 2026: MAI-Thinking-1 Is First In-House Reasoning Model, Trained Without OpenAI Data" },
   "fb507515592efe73": { "date": "2026-06-16", "headline": "Predictive Maintenance ROI: The Executive Guide" },
   "25e62c8aee50d7fd": { "date": "2026-06-16", "headline": "AIR CANADA CHATBOT" },
-  "5f6ce679e81cd2ce": { "date": "2026-06-16", "headline": "NIST Launches AI Agent Standards Initiative and Seeks Industry Input" }
+  "5f6ce679e81cd2ce": { "date": "2026-06-16", "headline": "NIST Launches AI Agent Standards Initiative and Seeks Industry Input" },
+  "a5f4b469d69554c5": { "date": "2026-06-17", "headline": "The Ultimate Guide to Prompt Engineering in 2026" },
+  "2f7d44745e2952a0": { "date": "2026-06-17", "headline": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases" },
+  "b44ddf6e8d345f3b": { "date": "2026-06-17", "headline": "Klarna's AI Replaces 700 Agents, Saves $40M/Year — The Full Story" },
+  "62fcb9a7e4924084": { "date": "2026-06-17", "headline": "Deloitte's AI fiasco: Why chatbots hallucinate and who else got caught" },
+  "c1428a63e00eb33b": { "date": "2026-06-17", "headline": "U.S. Companies Face EU AI Act's Possible August 2026 Compliance Deadline" }
 }
