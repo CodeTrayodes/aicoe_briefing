@@ -1,28 +1,4 @@
 {
-  "7d9c1d07b03e559e": {
-    "date": "2026-06-10",
-    "headline": "Health system AI adoption surges in 2026 with execs reporting increased ROI: survey"
-  },
-  "471a7bdc4888a658": {
-    "date": "2026-06-10",
-    "headline": "EY cybersecurity report pulled after probe finds 'AI hallucinations'"
-  },
-  "2ae2d27e9cf39e90": {
-    "date": "2026-06-10",
-    "headline": "EU AI Act transparency rules come into effect in August 2026"
-  },
-  "6eb7e3a7ec5e54e5": {
-    "date": "2026-06-09",
-    "headline": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare"
-  },
-  "7b288843f472a3ed": {
-    "date": "2026-06-09",
-    "headline": "The $67B Hallucination Killing Enterprise AI"
-  },
-  "ead5757c48ecfc9b": {
-    "date": "2026-06-09",
-    "headline": "U.S. Companies Face EU AI Act's Possible August 2026 Compliance Deadline"
-  },
   "8694ba0605a6cf6d": {
     "date": "2026-06-15",
     "headline": "Learning Agent delivers personalized in-the-flow learning through Work IQ"
@@ -122,5 +98,25 @@
   "e97f1aa211e8d192": {
     "date": "2026-06-19",
     "headline": "Colorado AI Act amended and effective date delayed to January 1, 2027"
+  },
+  "ca646ea46bb84411": {
+    "date": "2026-06-22",
+    "headline": "Schedule your most used Copilot prompts"
+  },
+  "419a72f3ff6c804a": {
+    "date": "2026-06-22",
+    "headline": "Microsoft Build 2026 introduces GPU-acceleration directly into Fabric Data Warehouse"
+  },
+  "d62b8a038c195bb9": {
+    "date": "2026-06-22",
+    "headline": "Manufacturing AI delivers 30-50% cost reductions across predictive maintenance and quality control"
+  },
+  "9d3c559dd2b0c6af": {
+    "date": "2026-06-22",
+    "headline": "KPMG pulls agentic AI report after hallucination claims surface on June 13"
+  },
+  "062631f55a82877c": {
+    "date": "2026-06-22",
+    "headline": "EU AI Act high-risk deadline deferred from August 2026 to December 2027 via Digital Omnibus amendment"
   }
 }
