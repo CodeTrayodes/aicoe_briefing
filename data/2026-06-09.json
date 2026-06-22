@@ -1,0 +1,101 @@
+{
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T09:00:00.000Z",
+  "status": "approved",
+  "count": 5,
+  "items": [
+    {
+      "id": "72eba9cf28fc8928",
+      "category": "tips",
+      "categoryLabel": "AI Tips & Efficiency",
+      "color": "#22C55E",
+      "headline": "Unlock your productivity: Here are our Top 10 tips for using Microsoft 365 Copilot every day",
+      "source": "Microsoft Inside Track Blog",
+      "publishedDate": "9 Jun 2026",
+      "url": "https://www.microsoft.com/insidetrack/blog/unlock-your-productivity-here-are-our-top-10-tips-for-using-microsoft-365-copilot-every-day/",
+      "summary": "Microsoft's Inside Track team shares 10 daily-use Copilot habits adopted internally, including one-click email thread summaries in Outlook, automated meeting recap generation in Teams, and the underused Scheduled Prompts feature that automatically surfaces weekly project and pipeline summaries. Most require zero prompt engineering — single-click adoption across any enterprise role.",
+      "levelshiftAngle": "LevelShift's Microsoft practice (150+ certified experts) routinely onboards enterprise clients onto M365 Copilot as part of Dynamics 365 and Power Platform implementations. The Scheduled Prompts feature is a high-impact quick win for non-technical business users, it automates weekly pipeline recaps, project summaries, and client status reports without any manual prompting. Add a two-minute demo of Scheduled Prompts to the next Microsoft Copilot enablement session with manufacturing and financial services prospects to accelerate internal adoption and deepen the Microsoft relationship.",
+      "relevanceScore": 7,
+      "tools": [
+        "M365 Copilot",
+        "Microsoft Fabric",
+        "Outlook",
+        "Teams"
+      ],
+      "approved": false,
+      "fetchedAt": "2026-06-09T09:00:00.000Z",
+      "editedAt": "2026-06-09T15:41:13.984Z"
+    },
+    {
+      "id": "72f23978651869ba",
+      "category": "updates",
+      "categoryLabel": "AI Product Updates",
+      "color": "#3B82F6",
+      "headline": "Salesforce Summer '26 Release: Agentforce Multi-Agent Orchestration reaches general availability June 15",
+      "source": "Salesforce",
+      "publishedDate": "9 Jun 2026",
+      "url": "https://www.salesforce.com/news/stories/summer-2026-product-release-announcement/",
+      "summary": "Salesforce's Summer '26 release — its largest Agentforce update to date — goes GA on June 15, graduating multi-agent orchestration from beta. A primary agent now handles intent routing while specialised agents manage domain-specific complexity, all sharing context so customers never repeat themselves. The release also adds Tableau MCP for secure analytics integration and Slack-first sales workflows. Agentforce ARR hit $800M, up 169% year-over-year, with combined Salesforce AI revenue surpassing $2.9 billion.",
+      "levelshiftAngle": "As a Salesforce Summit Partner and Agentforce Ready partner with 150+ pre-built agents, LevelShift can implement multi-agent orchestration from day one of the June 15 GA release. The primary-plus-specialist agent architecture directly mirrors complex workflows already designed for clients like Ever.Ag (churn detection) and TissueTech — our existing agent library gives us a deployment head-start over most SIs. Contact every active Agentforce pipeline account this week: the GA announcement is the trigger to move from discovery scoping to SOW.",
+      "relevanceScore": 10,
+      "tools": [
+        "Salesforce",
+        "Agentforce"
+      ],
+      "approved": false,
+      "fetchedAt": "2026-06-09T09:00:00.000Z"
+    },
+    {
+      "id": "6eb7e3a7ec5e54e5",
+      "category": "stories",
+      "categoryLabel": "AI Success Stories",
+      "color": "#A78BFA",
+      "headline": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+      "source": "NVIDIA Blog",
+      "publishedDate": "Jun 2026",
+      "url": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
+      "summary": "NVIDIA's 2026 healthcare AI survey finds 45% of organisations using generative AI in healthcare report positive ROI within the first year of deployment. Named case studies include Johns Hopkins, which cut ER bed assignment times by 30%, reduced OR transfer delays by 70%, and shortened ambulance response times by 63 minutes. Early adopters in revenue cycle management are reporting 10–15% revenue capture improvements through AI-assisted coding and clinical documentation.",
+      "levelshiftAngle": "Healthcare is one of LevelShift's three primary verticals, and these numbers validate the conversation directly. Our HIPAA-compliant, SOC 2-certified medical record review and revenue cycle services already operate in the workflow where this ROI is being captured — AI-assisted coding, documentation, and indexing. Johns Hopkins' 30% ER improvement is a credible peer reference for hospital system prospects. Add this data point to the healthcare vertical capability deck and use the 10–15% revenue capture stat when pitching AI-augmented medical record review to health system and RCM buyers.",
+      "relevanceScore": 8,
+      "tools": [
+        "Azure",
+        "Claude"
+      ],
+      "approved": false,
+      "fetchedAt": "2026-06-09T09:00:00.000Z"
+    },
+    {
+      "id": "7b288843f472a3ed",
+      "category": "lowlights",
+      "categoryLabel": "AI Lowlights",
+      "color": "#F97316",
+      "headline": "The $67B Hallucination Killing Enterprise AI",
+      "source": "Holm Intelligence Partners",
+      "publishedDate": "Jun 2026",
+      "url": "https://holm.com/blog/enterprise-ai-hallucination-failure-fix",
+      "summary": "AI hallucinations cost enterprises $67.4 billion in 2024, projected to reach $112 billion in 2025 — broken down as $18.2B in direct losses, $21.5B in operational cleanup, and $27.7B in reputational damage. U.S. courts imposed over $145,000 in hallucination-related sanctions in Q1 2026 alone, including a $110,000 record penalty in Oregon. A January 2026 ruling classified AI chatbot output as a 'product' rather than protected speech, opening enterprises to product liability exposure.",
+      "levelshiftAngle": "These figures are the battle card for every mid-market prospect attempting to self-implement AI without governance. LevelShift's Controlled Execution (Phase 5 of our 5-Phase Value Realization Framework) and human-in-the-loop medical record review service exist specifically to prevent hallucination-driven liability. The 'product liability' ruling is especially relevant to financial services and healthcare clients using AI in customer-facing workflows — our SOC 2 certification and CMMI process discipline are the proof points to lead with. Use this data in the next pipeline conversation where a prospect is evaluating a low-cost, ungoverned AI tool.",
+      "relevanceScore": 9,
+      "tools": [],
+      "approved": false,
+      "fetchedAt": "2026-06-09T09:00:00.000Z"
+    },
+    {
+      "id": "ead5757c48ecfc9b",
+      "category": "governance",
+      "categoryLabel": "AI Governance & Security",
+      "color": "#FBBF24",
+      "headline": "U.S. Companies Face EU AI Act's Possible August 2026 Compliance Deadline",
+      "source": "Holland & Knight",
+      "publishedDate": "Apr 2026",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/04/us-companies-face-eu-ai-acts-possible-august-2026-compliance-deadline",
+      "summary": "The EU AI Act's transparency obligations (Article 50) and high-risk AI system requirements become enforceable on August 2, 2026 — 54 days away. Requirements include chatbot disclosure, AI content marking, conformity assessments, technical documentation, and EU database registration for high-risk systems. Non-compliance carries fines up to €35 million or 7% of global annual turnover. A May 2026 political agreement extended some deadlines but the original August 2 date remains legally binding until formally amended.",
+      "levelshiftAngle": "LevelShift's UK (Surrey) and Dubai offices place the company and its clients directly in scope of EU AI Act extraterritoriality — any AI system touching EU data or EU users triggers compliance obligations. Financial services and healthcare clients face the tightest exposure given their Annex III high-risk classifications. Our AI governance playbooks, SOC 2 certification, and 5-Phase methodology already contain the documentation and quality management elements the Act requires. This is an urgent pipeline catalyst: identify UK and UAE enterprise clients deploying AI in customer-facing or HR workflows and schedule AI governance assessments before the August 2 deadline.",
+      "relevanceScore": 9,
+      "tools": [],
+      "approved": false,
+      "fetchedAt": "2026-06-09T09:00:00.000Z"
+    }
+  ],
+  "approvedAt": "2026-06-09T16:41:15.811Z"
+}

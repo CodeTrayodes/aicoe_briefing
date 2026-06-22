@@ -45,7 +45,7 @@ If that hash already exists in seen-hashes.json — skip this story and find ano
 ## Step 3 — Fetch one story per category
 
 Search the web for each category below. Use real web search — do not rely on training data.
-Prioritise sources published within the last 14 days for Tips and Governance,
+Prioritise sources published within the last 14 days for Tips and Governance, Making sure sources are verified and credible.
 30 days for Stories and Lowlights, 7 days for Updates.
 
 ### Category 1 — AI Tips & Efficiency (id: "tips")
@@ -91,7 +91,7 @@ Each card must match this exact JSON shape:
   "source": "Publication name only",
   "publishedDate": "8 Jun 2026",
   "url": "https://actual-article-url-or-topic-page",
-  "summary": "2-3 sentences. Factual. What happened, who, what impact.",
+  "summary": "2-3 sentences. Factual. What happened, who, what impact, no fluff. Making sure no em dshes or colons that could break formatting.",
   "levelshiftAngle": "2-3 sentences. Names a specific LevelShift asset. Ends with action.",
   "relevanceScore": 8,
   "tools": ["M365 Copilot"],
