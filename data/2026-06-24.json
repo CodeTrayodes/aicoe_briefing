@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T03:36:37.070Z",
+  "status": "pending",
+  "count": 5,
+  "items": [
+    {
+      "category": "tips",
+      "categoryLabel": "AI Tips & Efficiency",
+      "color": "#22C55E",
+      "headline": "Real-time voice interactions are coming to Copilot podcasts",
+      "source": "Microsoft",
+      "publishedDate": "June 2026",
+      "url": "https://supersimple365.com/real-time-voice-interactions-come-to-copilot-podcasts/",
+      "summary": "Microsoft introduces real-time voice interactions in the Podcast feature, allowing users to speak to the presenter and clarify, explore, or dive deeper into content. Users can talk to Copilot, interrupt naturally, and get real-time spoken responses grounded in work and web data. The feature is now available in Copilot on Windows with Hey Copilot voice activation.",
+      "levelshiftAngle": "LevelShift implements M365 Copilot across enterprise clients and runs AI Discovery & Assessment Workshops teaching practical AI usage. Voice mode increases accessibility for non-technical teams and should be demonstrated in next-round workshops for Manufacturing and Financial Services clients. Add this feature to our M365 Copilot capability deck and highlight in conversations with clients seeking hands-free productivity tools.",
+      "relevanceScore": 7,
+      "tools": [
+        "M365 Copilot"
+      ],
+      "approved": false,
+      "fetchedAt": "2026-06-24T03:36:37.070Z",
+      "id": "5a7048b5d19499c2"
+    },
+    {
+      "category": "updates",
+      "categoryLabel": "AI Product Updates",
+      "color": "#3B82F6",
+      "headline": "Salesforce Summer 26 rolls out multi-agent orchestration and Tableau MCP integration",
+      "source": "Salesforce",
+      "publishedDate": "15 Jun 2026",
+      "url": "https://www.salesforce.com/news/stories/summer-2026-product-release-announcement/",
+      "summary": "Salesforce Summer 26 release goes live June 15, 2026, introducing Agentforce Multi-Agent Orchestration enabling multiple AI agents to work as a unified team sharing context across channels. Tableau MCP integration allows Agentforce agents to query Tableau analytics engine directly via Model Context Protocol, protected by the Agentforce Trust Layer. Agentforce ARR reached 800 million, up 169 percent year over year.",
+      "levelshiftAngle": "LevelShift is a Salesforce Summit Partner and Agentforce Ready Partner with 150+ pre-built agents. The Tableau MCP integration and multi-agent orchestration are direct implementation opportunities for our Data Cloud and Agentforce clients, particularly Ever.Ag and UnitedAg where we already deploy Salesforce CRM. Schedule technical briefing for the Salesforce practice team this week and update Agentforce capability deck with Summer 26 features.",
+      "relevanceScore": 10,
+      "tools": [
+        "Salesforce",
+        "Agentforce"
+      ],
+      "approved": false,
+      "fetchedAt": "2026-06-24T03:36:37.070Z",
+      "id": "ae936ca7193a8a11"
+    },
+    {
+      "category": "stories",
+      "categoryLabel": "AI Success Stories",
+      "color": "#A78BFA",
+      "headline": "Clinomic AI assistant Mona delivers 68 percent reduction in ICU documentation errors across 40 hospitals",
+      "source": "NVIDIA",
+      "publishedDate": "June 2026",
+      "url": "https://www.nvidia.com/en-us/case-studies/clinomic/",
+      "summary": "Clinomic's Mona AI assistant deployed across 40 hospitals in 8 EU countries achieved 68 percent reduction in documentation errors and 33 percent reduction in perceived workload for ICU healthcare staff. The platform delivers 550 hours of time savings per year per bed, 143 percent increase in patient care capacity, and 26 percent reduction in hospital transfers. Through natural language processing, Mona converts spoken observations into clinical notes, cutting documentation time up to 80 percent.",
+      "levelshiftAngle": "Our Medical Record Review BPS practice is HIPAA-compliant, SOC 2 certified, and uses human-in-the-loop AI workflows. Mona validates the commercial viability of AI-powered clinical documentation with real numbers. This case study is sales enablement content for healthcare prospects and should be referenced in conversations about our medical record indexing and summarization services. The 68 percent error reduction metric directly supports our value proposition for quality and compliance.",
+      "relevanceScore": 8,
+      "tools": [],
+      "approved": false,
+      "fetchedAt": "2026-06-24T03:36:37.070Z",
+      "id": "82ef669e6d2905c4"
+    },
+    {
+      "category": "lowlights",
+      "categoryLabel": "AI Lowlights",
+      "color": "#F97316",
+      "headline": "KPMG pulls agentic AI report after hallucination claims surface on June 13",
+      "source": "TechCrunch",
+      "publishedDate": "13 Jun 2026",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "KPMG withdrew its report titled Redefining excellence in the age of agentic AI on June 13, 2026, after multiple organizations including UBS, NHS, Swiss Federal Railways, and Transport for London disputed claims about their AI deployments. GPTZero found only 5 of 45 citations matched real sources, with 40 titles fabricated. KPMG said it removed the report while conducting its own investigation into responsible use of AI and human oversight.",
+      "levelshiftAngle": "This incident validates LevelShift's 5-Phase Value Realization Framework where Controlled Execution and human-in-the-loop governance prevent exactly this failure mode. Our SOC 2 certification and CMMI disciplined delivery model differentiate us from firms that deploy AI without proper validation. Use this as a battle card in pipeline conversations to explain why structured AI transformation partners matter and why governance playbooks are non-negotiable in enterprise AI deployments.",
+      "relevanceScore": 9,
+      "tools": [],
+      "approved": false,
+      "fetchedAt": "2026-06-24T03:36:37.070Z",
+      "id": "1d862ca9c5dbf55b"
+    },
+    {
+      "category": "governance",
+      "categoryLabel": "AI Governance & Security",
+      "color": "#FBBF24",
+      "headline": "EU AI Act high-risk deadline deferred from August 2026 to December 2027 via Digital Omnibus amendment",
+      "source": "European Parliament",
+      "publishedDate": "16 Jun 2026",
+      "url": "https://www.dastra.eu/en/blog/digital-omnibus-on-ai-parliament-votes-deadlines-redrawn/60108",
+      "summary": "European Parliament approved the Digital Omnibus on AI on June 16, 2026, by 423 votes to 57, deferring the high-risk AI systems compliance deadline from August 2, 2026, to December 2, 2027, for standalone systems in Annex III. High-risk AI embedded in products listed in Annex I moves from August 2027 to August 2028. Article 50 transparency obligations still apply from August 2, 2026, except provider watermarking which moves to December 2026. Council expected to formally adopt June 29, 2026.",
+      "levelshiftAngle": "LevelShift serves EU-in-scope clients via our UK and Dubai offices, and Financial Services and Healthcare clients face the tightest AI compliance requirements. The December 2027 deferral buys time but does not eliminate the obligation. Our governance playbooks and 5-Phase methodology address EU AI Act readiness as a discrete consulting service. Reach out to Financial Services and Healthcare accounts this week with updated timeline and position LevelShift as the governance partner before procurement enforces documentation requirements.",
+      "relevanceScore": 9,
+      "tools": [],
+      "approved": false,
+      "fetchedAt": "2026-06-24T03:36:37.070Z",
+      "id": "f3b392b20738485f"
+    }
+  ]
+}
