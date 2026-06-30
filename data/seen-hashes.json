@@ -1,24 +1,4 @@
 {
-  "8694ba0605a6cf6d": {
-    "date": "2026-06-15",
-    "headline": "Learning Agent delivers personalized in-the-flow learning through Work IQ"
-  },
-  "2b600e0199ded43b": {
-    "date": "2026-06-15",
-    "headline": "Agentforce Multi-Agent Orchestration reaches general availability"
-  },
-  "f6aafb5d46c26fdd": {
-    "date": "2026-06-15",
-    "headline": "Toyota AI reduces production defects by 53 percent and logistics costs by 29 percent"
-  },
-  "8631f10e3cbf3f88": {
-    "date": "2026-06-15",
-    "headline": "EY retracts cyber report littered with AI errors"
-  },
-  "8fc8ad80f8b966b0": {
-    "date": "2026-06-15",
-    "headline": "EU AI Act transparency obligations apply from August 2 2026"
-  },
   "9b62da246b44d7f3": {
     "date": "2026-06-16",
     "headline": "Copilot Cowork: A new way of getting work done"
@@ -49,7 +29,7 @@
   },
   "b44ddf6e8d345f3b": {
     "date": "2026-06-17",
-    "headline": "Klarna's AI Replaces 700 Agents, Saves $40M/Year — The Full Story"
+    "headline": "Klarna's AI Replaces 700 Agents, Saves $40M/Year \u2014 The Full Story"
   },
   "62fcb9a7e4924084": {
     "date": "2026-06-17",
@@ -214,5 +194,25 @@
   "30be7160b8da1967": {
     "date": "2026-06-29",
     "headline": "Promoting Advanced Artificial Intelligence Innovation and Security Executive Order June 2 2026"
+  },
+  "de05d3ad0bb8fd83": {
+    "date": "2026-06-30",
+    "headline": "GitHub Copilot Best Practices from High-Performing Teams"
+  },
+  "a14de6f2d2d7c7f6": {
+    "date": "2026-06-30",
+    "headline": "GPU-accelerated Fabric Data Warehouse reaches early access preview"
+  },
+  "92250674bb4f7964": {
+    "date": "2026-06-30",
+    "headline": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI"
+  },
+  "39f2217e14141e12": {
+    "date": "2026-06-30",
+    "headline": "Madison Square Garden breach exposed 26 million visitor records including facial recognition data"
+  },
+  "3d2d637654307a7d": {
+    "date": "2026-06-30",
+    "headline": "AI Agent Standards Initiative for Interoperable and Secure Innovation"
   }
 }
