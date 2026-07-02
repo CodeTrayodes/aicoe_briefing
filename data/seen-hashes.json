@@ -1,24 +1,4 @@
 {
-  "a5f4b469d69554c5": {
-    "date": "2026-06-17",
-    "headline": "The Ultimate Guide to Prompt Engineering in 2026"
-  },
-  "2f7d44745e2952a0": {
-    "date": "2026-06-17",
-    "headline": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases"
-  },
-  "b44ddf6e8d345f3b": {
-    "date": "2026-06-17",
-    "headline": "Klarna's AI Replaces 700 Agents, Saves $40M/Year — The Full Story"
-  },
-  "62fcb9a7e4924084": {
-    "date": "2026-06-17",
-    "headline": "Deloitte's AI fiasco: Why chatbots hallucinate and who else got caught"
-  },
-  "c1428a63e00eb33b": {
-    "date": "2026-06-17",
-    "headline": "U.S. Companies Face EU AI Act's Possible August 2026 Compliance Deadline"
-  },
   "9e4beb71ad3bcbc4": {
     "date": "2026-06-18",
     "headline": "Scheduled prompts are one of the most practical and underused Microsoft Copilot features"
@@ -214,5 +194,25 @@
   "804fcd92bfb99ac4": {
     "date": "2026-07-01",
     "headline": "Announcing the AI Agent Standards Initiative for Interoperable and Secure Innovation"
+  },
+  "400f4e0f13a8ede6": {
+    "date": "2026-07-02",
+    "headline": "Available today: Anthropic Claude Opus 4.8 in Microsoft 365 Copilot"
+  },
+  "568049dea2a7706e": {
+    "date": "2026-07-02",
+    "headline": "The Salesforce Developer's Guide to the Summer '26 Release"
+  },
+  "88c182f7cf556ffd": {
+    "date": "2026-07-02",
+    "headline": "Toyota AI models reduce production defects by 53% and slash logistics costs by 29%"
+  },
+  "9e4c02523e4a6a3e": {
+    "date": "2026-07-02",
+    "headline": "AI chat app leak exposes 300 million messages tied to 25 million users"
+  },
+  "4e589ecc115af1ac": {
+    "date": "2026-07-02",
+    "headline": "The EU AI Act's Transparency Rules: A Practical Guide to Article 50"
   }
 }
