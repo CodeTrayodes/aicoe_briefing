@@ -1,23 +1,7 @@
 {
-  "9e4beb71ad3bcbc4": {
-    "date": "2026-06-18",
-    "headline": "Scheduled prompts are one of the most practical and underused Microsoft Copilot features"
-  },
   "ae936ca7193a8a11": {
     "date": "2026-06-24",
     "headline": "Salesforce Summer 26 rolls out multi-agent orchestration and Tableau MCP integration"
-  },
-  "319f99cc0d27164c": {
-    "date": "2026-06-18",
-    "headline": "Mercy Health System saved caregivers over 100,000 hours by automating physician-patient encounter documentation"
-  },
-  "b5fd36aea513ff0c": {
-    "date": "2026-06-18",
-    "headline": "AI Incidents H1 2026 Retrospective shows over fifty public AI failure events"
-  },
-  "4672a140ddd90881": {
-    "date": "2026-06-18",
-    "headline": "EU AI Act high-risk AI deadline deferred from August 2026 to December 2027"
   },
   "f5b8044bcd67a071": {
     "date": "2026-06-19",
@@ -214,5 +198,25 @@
   "4e589ecc115af1ac": {
     "date": "2026-07-02",
     "headline": "The EU AI Act's Transparency Rules: A Practical Guide to Article 50"
+  },
+  "60f0190e01ba1a83": {
+    "date": "2026-07-03",
+    "headline": "Claude Opus 4.8 now available in Microsoft 365 Copilot for advanced work scenarios"
+  },
+  "8015bd98d523f5d2": {
+    "date": "2026-07-03",
+    "headline": "Microsoft Fabric June 2026 update brings AI-first Real-Time Dashboards and GPU-accelerated Data Warehouse with 7x performance gains"
+  },
+  "2478502370aaa157": {
+    "date": "2026-07-03",
+    "headline": "AI helps financial institutions cut false positives by up to 200 percent in transaction monitoring"
+  },
+  "2e83317077d32627": {
+    "date": "2026-07-03",
+    "headline": "AI Incident Database recorded 362 documented AI incidents in 2025, up 55 percent from 2024"
+  },
+  "833d779fc6737ed2": {
+    "date": "2026-07-03",
+    "headline": "EU AI Act becomes fully enforceable on August 2 2026 making EU first jurisdiction with comprehensive AI regulation"
   }
 }
