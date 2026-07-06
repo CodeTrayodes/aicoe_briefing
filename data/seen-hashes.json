@@ -3,26 +3,6 @@
     "date": "2026-06-24",
     "headline": "Salesforce Summer 26 rolls out multi-agent orchestration and Tableau MCP integration"
   },
-  "f5b8044bcd67a071": {
-    "date": "2026-06-19",
-    "headline": "Scheduled prompts are one of the most practical and underused Microsoft Copilot features"
-  },
-  "c0a186cc2ad6c416": {
-    "date": "2026-06-19",
-    "headline": "Microsoft Build 2026 introduces GPU-acceleration directly into Fabric Data Warehouse"
-  },
-  "d6dab3c19d675a01": {
-    "date": "2026-06-19",
-    "headline": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare"
-  },
-  "dcc228143eb5ce14": {
-    "date": "2026-06-19",
-    "headline": "KPMG pulls report on AI usage due to apparent hallucinations"
-  },
-  "e97f1aa211e8d192": {
-    "date": "2026-06-19",
-    "headline": "Colorado AI Act amended and effective date delayed to January 1, 2027"
-  },
   "ca646ea46bb84411": {
     "date": "2026-06-22",
     "headline": "Schedule your most used Copilot prompts"
@@ -218,5 +198,25 @@
   "833d779fc6737ed2": {
     "date": "2026-07-03",
     "headline": "EU AI Act becomes fully enforceable on August 2 2026 making EU first jurisdiction with comprehensive AI regulation"
+  },
+  "eb72564f8aad01e5": {
+    "date": "2026-07-06",
+    "headline": "GitHub Copilot Best Practices for Top Teams (2026)"
+  },
+  "604f95ec2e47fad3": {
+    "date": "2026-07-06",
+    "headline": "Introducing Claude Sonnet 5"
+  },
+  "084f91e4da4d696d": {
+    "date": "2026-07-06",
+    "headline": "AI x Manufacturing Implementation Patterns - Predictive Maintenance, Quality Control, and Design Support [2026 Edition]"
+  },
+  "e48d93ba29d8f1f1": {
+    "date": "2026-07-06",
+    "headline": "Vercel April 2026 security incident"
+  },
+  "06033f7dbd17e68b": {
+    "date": "2026-07-06",
+    "headline": "EU AI Act Compliance Guide - Updated June 2026"
   }
 }
