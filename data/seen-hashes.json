@@ -3,26 +3,6 @@
     "date": "2026-06-24",
     "headline": "Salesforce Summer 26 rolls out multi-agent orchestration and Tableau MCP integration"
   },
-  "ca646ea46bb84411": {
-    "date": "2026-06-22",
-    "headline": "Schedule your most used Copilot prompts"
-  },
-  "419a72f3ff6c804a": {
-    "date": "2026-06-22",
-    "headline": "Microsoft Build 2026 introduces GPU-acceleration directly into Fabric Data Warehouse"
-  },
-  "d62b8a038c195bb9": {
-    "date": "2026-06-22",
-    "headline": "Manufacturing AI delivers 30-50% cost reductions across predictive maintenance and quality control"
-  },
-  "9d3c559dd2b0c6af": {
-    "date": "2026-06-22",
-    "headline": "KPMG pulls agentic AI report after hallucination claims surface on June 13"
-  },
-  "062631f55a82877c": {
-    "date": "2026-06-22",
-    "headline": "EU AI Act high-risk deadline deferred from August 2026 to December 2027 via Digital Omnibus amendment"
-  },
   "7a3e9f2d1c4b8e6a": {
     "date": "2026-06-23",
     "headline": "Use 'Recap the meeting so far' to catch up when late without disrupting the conversation"
@@ -218,5 +198,25 @@
   "06033f7dbd17e68b": {
     "date": "2026-07-06",
     "headline": "EU AI Act Compliance Guide - Updated June 2026"
+  },
+  "4b4c1da9f4109170": {
+    "date": "2026-07-07",
+    "headline": "Schedule your most used Copilot prompts"
+  },
+  "c8d779785ae66c67": {
+    "date": "2026-07-07",
+    "headline": "Salesforce Launches Agentforce Help Agent That Deploys in Minutes and Only Charges for Resolutions"
+  },
+  "c9028b3664a611d1": {
+    "date": "2026-07-07",
+    "headline": "JPMorgan runs 450+ AI agents in production generating investment presentations in 30 seconds"
+  },
+  "9bf8d4dd8d69b7c6": {
+    "date": "2026-07-07",
+    "headline": "AI Chatbot Cyber Attack 2026: Govt Breach Exposed"
+  },
+  "6310d2d3d805183b": {
+    "date": "2026-07-07",
+    "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
   }
 }
