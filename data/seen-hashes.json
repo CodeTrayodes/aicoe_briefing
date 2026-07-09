@@ -1,44 +1,4 @@
 {
-  "ae936ca7193a8a11": {
-    "date": "2026-06-24",
-    "headline": "Salesforce Summer 26 rolls out multi-agent orchestration and Tableau MCP integration"
-  },
-  "7a3e9f2d1c4b8e6a": {
-    "date": "2026-06-23",
-    "headline": "Use 'Recap the meeting so far' to catch up when late without disrupting the conversation"
-  },
-  "b9c4f1e6d8a2e5f3": {
-    "date": "2026-06-23",
-    "headline": "Salesforce Customer Engagement Agent independently qualifies buyers 24/7 across websites and email"
-  },
-  "d3f7a9c2e1b6d8f4": {
-    "date": "2026-06-23",
-    "headline": "JPMorgan runs 450+ AI agents in production generating investment presentations in 30 seconds"
-  },
-  "e8b2d4f9a1c7e3b6": {
-    "date": "2026-06-23",
-    "headline": "AI hallucinations cost $67.4 billion in 2024, projected at $112 billion in 2025"
-  },
-  "f2c9e7b4d6a1f8e3": {
-    "date": "2026-06-23",
-    "headline": "EU Commission publishes Code of Practice on marking and labeling AI-generated content (10 June 2026)"
-  },
-  "5a7048b5d19499c2": {
-    "date": "2026-06-24",
-    "headline": "Real-time voice interactions are coming to Copilot podcasts"
-  },
-  "82ef669e6d2905c4": {
-    "date": "2026-06-24",
-    "headline": "Clinomic AI assistant Mona delivers 68 percent reduction in ICU documentation errors across 40 hospitals"
-  },
-  "1d862ca9c5dbf55b": {
-    "date": "2026-06-24",
-    "headline": "KPMG pulls agentic AI report after hallucination claims surface on June 13"
-  },
-  "f3b392b20738485f": {
-    "date": "2026-06-24",
-    "headline": "EU AI Act high-risk deadline deferred from August 2026 to December 2027 via Digital Omnibus amendment"
-  },
   "c9888fcc01fed7ba": {
     "date": "2026-06-25",
     "headline": "Use Claude with Researcher in Microsoft 365 Copilot"
@@ -204,7 +164,7 @@
     "headline": "Schedule your most used Copilot prompts"
   },
   "c8d779785ae66c67": {
-    "date": "2026-07-07",
+    "date": "2026-07-09",
     "headline": "Salesforce Launches Agentforce Help Agent That Deploys in Minutes and Only Charges for Resolutions"
   },
   "c9028b3664a611d1": {
@@ -218,5 +178,21 @@
   "6310d2d3d805183b": {
     "date": "2026-07-07",
     "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
+  },
+  "c81334379d959f8a": {
+    "date": "2026-07-09",
+    "headline": "Claude Code Tips: 10 Real Productivity Workflows for 2026"
+  },
+  "443693109501d4d1": {
+    "date": "2026-07-09",
+    "headline": "AI ROI: Why Only 5% of Enterprises See Real Returns in 2026"
+  },
+  "1ff680bb68c82afb": {
+    "date": "2026-07-09",
+    "headline": "Deloitte AI Hallucination Report: FINRA's 2026 Warning"
+  },
+  "905e8d2afc03cf22": {
+    "date": "2026-07-09",
+    "headline": "EU AI Act August 2, 2026 Deadline Is Six Weeks Away"
   }
 }
