@@ -1,44 +1,4 @@
 {
-  "c9888fcc01fed7ba": {
-    "date": "2026-06-25",
-    "headline": "Use Claude with Researcher in Microsoft 365 Copilot"
-  },
-  "c2e42602f7b0cc67": {
-    "date": "2026-06-25",
-    "headline": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries"
-  },
-  "24525275ba7a81cc": {
-    "date": "2026-06-25",
-    "headline": "Mona by Clinomic delivers 68% reduction in ICU documentation errors across 40 hospitals"
-  },
-  "93fe93de197c75d6": {
-    "date": "2026-06-25",
-    "headline": "KPMG pulls agentic AI report after hallucination claims surface on June 13, 2026"
-  },
-  "ce291260748dca1a": {
-    "date": "2026-06-25",
-    "headline": "EU AI Act high-risk deadline deferred from August 2026 to December 2027 via Digital Omnibus"
-  },
-  "2d237502474d4169": {
-    "date": "2026-06-26",
-    "headline": "Use Claude with Researcher in Microsoft 365 Copilot"
-  },
-  "c6b30394c3fcf1be": {
-    "date": "2026-06-26",
-    "headline": "Anthropic Claude Tag launches on Slack for team workspace collaboration"
-  },
-  "527b28d539fef1eb": {
-    "date": "2026-06-26",
-    "headline": "Enterprise AI delivers $3.70 return per dollar invested for early GenAI adopters"
-  },
-  "ee9b5e4d5e8e7707": {
-    "date": "2026-06-26",
-    "headline": "KPMG pulls agentic AI report after hallucination claims surface on June 13, 2026"
-  },
-  "24b2afe7dc9acb0b": {
-    "date": "2026-06-26",
-    "headline": "EU AI Act transparency rules and Code of Practice for AI-generated content marking take effect August 2026"
-  },
   "b1662552729f2b57": {
     "date": "2026-06-29",
     "headline": "Copilot Cowork reaches general availability on June 16 2026"
@@ -194,5 +154,25 @@
   "905e8d2afc03cf22": {
     "date": "2026-07-09",
     "headline": "EU AI Act August 2, 2026 Deadline Is Six Weeks Away"
+  },
+  "ca646ea46bb84411": {
+    "date": "2026-07-13",
+    "headline": "Schedule your most used Copilot prompts"
+  },
+  "45d79c8ecd0a5819": {
+    "date": "2026-07-13",
+    "headline": "A new analytics frontier - GPU-accelerated Fabric Data Warehouse (Early Access Preview)"
+  },
+  "4e6780da47977e6d": {
+    "date": "2026-07-13",
+    "headline": "Bradesco achieves +80% resolution rate integrating Azure generative AI into BIA"
+  },
+  "78890d7f0122e82b": {
+    "date": "2026-07-13",
+    "headline": "Nebraska Supreme Court blasts AI-authored court filings, recommends discipline"
+  },
+  "16f7840b08ab6271": {
+    "date": "2026-07-13",
+    "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
   }
 }
