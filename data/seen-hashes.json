@@ -1,24 +1,4 @@
 {
-  "b1662552729f2b57": {
-    "date": "2026-06-29",
-    "headline": "Copilot Cowork reaches general availability on June 16 2026"
-  },
-  "32b56ffa00c29584": {
-    "date": "2026-06-29",
-    "headline": "Microsoft Fabric GPU-accelerated Data Warehouse reaches early access with 7x performance gains"
-  },
-  "f472bd8bbe8397e7": {
-    "date": "2026-06-29",
-    "headline": "Enterprise AI adoption in 2026 shows 79% face challenges despite high investment"
-  },
-  "1f642c8e15c64379": {
-    "date": "2026-06-29",
-    "headline": "KPMG Pulls Agentic AI Report After Hallucination Claims on June 13 2026"
-  },
-  "30be7160b8da1967": {
-    "date": "2026-06-29",
-    "headline": "Promoting Advanced Artificial Intelligence Innovation and Security Executive Order June 2 2026"
-  },
   "de05d3ad0bb8fd83": {
     "date": "2026-06-30",
     "headline": "GitHub Copilot Best Practices from High-Performing Teams"
@@ -174,5 +154,25 @@
   "16f7840b08ab6271": {
     "date": "2026-07-13",
     "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
+  },
+  "0fe443904f9d4dd4": {
+    "date": "2026-07-14",
+    "headline": "Claude deployed autonomously shipped over 800 fixes reducing error rate by 1000x in April 2026"
+  },
+  "2713737b401b7cb8": {
+    "date": "2026-07-14",
+    "headline": "GPU-accelerated Fabric Data Warehouse delivers 7x performance gains at early access"
+  },
+  "470bacae70794b18": {
+    "date": "2026-07-14",
+    "headline": "JPMorgan runs 450 AI agents in production generating investment presentations in 30 seconds"
+  },
+  "c54a519584c89aa4": {
+    "date": "2026-07-14",
+    "headline": "Mexican Government Agencies breach via Claude Code and ChatGPT compromised 195 million records"
+  },
+  "f59177a08969d50d": {
+    "date": "2026-07-14",
+    "headline": "EU AI Act August 2 2026 Deadline Is Six Weeks Away"
   }
 }
