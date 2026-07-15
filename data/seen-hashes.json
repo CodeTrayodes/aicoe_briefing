@@ -1,24 +1,4 @@
 {
-  "de05d3ad0bb8fd83": {
-    "date": "2026-06-30",
-    "headline": "GitHub Copilot Best Practices from High-Performing Teams"
-  },
-  "a14de6f2d2d7c7f6": {
-    "date": "2026-06-30",
-    "headline": "GPU-accelerated Fabric Data Warehouse reaches early access preview"
-  },
-  "92250674bb4f7964": {
-    "date": "2026-06-30",
-    "headline": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI"
-  },
-  "39f2217e14141e12": {
-    "date": "2026-06-30",
-    "headline": "Madison Square Garden breach exposed 26 million visitor records including facial recognition data"
-  },
-  "3d2d637654307a7d": {
-    "date": "2026-06-30",
-    "headline": "AI Agent Standards Initiative for Interoperable and Secure Innovation"
-  },
   "7f66a72462eeae4d": {
     "date": "2026-07-01",
     "headline": "Unlock your productivity: Here are our Top 10 tips for using Microsoft 365 Copilot every day"
@@ -174,5 +154,21 @@
   "f59177a08969d50d": {
     "date": "2026-07-14",
     "headline": "EU AI Act August 2 2026 Deadline Is Six Weeks Away"
+  },
+  "c8ab5b9f33fb3dca": {
+    "date": "2026-07-15",
+    "headline": "Salesforce Agentforce Commerce Goes GA with Native ChatGPT Integration"
+  },
+  "a8e0f3b77c4d29e1": {
+    "date": "2026-07-15",
+    "headline": "Continental AG cuts tire manufacturing downtime 37% saving EUR 8M annually with predictive maintenance AI"
+  },
+  "5e97f4a8c12b9d63": {
+    "date": "2026-07-15",
+    "headline": "Accenture confirms breach after hacker steals 35GB of source code and cloud access keys"
+  },
+  "bb7e13c6f7a8d042": {
+    "date": "2026-07-15",
+    "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with fines up to EUR 35M or 7% of global revenue"
   }
 }
