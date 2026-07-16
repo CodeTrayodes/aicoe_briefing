@@ -1,24 +1,4 @@
 {
-  "7f66a72462eeae4d": {
-    "date": "2026-07-01",
-    "headline": "Unlock your productivity: Here are our Top 10 tips for using Microsoft 365 Copilot every day"
-  },
-  "a0352a3d3687b6c3": {
-    "date": "2026-07-01",
-    "headline": "Salesforce Summer '26 Agentforce Multi-Agent Orchestration Hits GA"
-  },
-  "6eb7e3a7ec5e54e5": {
-    "date": "2026-07-01",
-    "headline": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare"
-  },
-  "474c6db6ccd942a6": {
-    "date": "2026-07-01",
-    "headline": "Claude Code & ChatGPT Used to Steal Millions of Records in Mexican Government Breach"
-  },
-  "804fcd92bfb99ac4": {
-    "date": "2026-07-01",
-    "headline": "Announcing the AI Agent Standards Initiative for Interoperable and Secure Innovation"
-  },
   "400f4e0f13a8ede6": {
     "date": "2026-07-02",
     "headline": "Available today: Anthropic Claude Opus 4.8 in Microsoft 365 Copilot"
@@ -170,5 +150,25 @@
   "bb7e13c6f7a8d042": {
     "date": "2026-07-15",
     "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with fines up to EUR 35M or 7% of global revenue"
+  },
+  "7aaedae87bf8dd66": {
+    "date": "2026-07-16",
+    "headline": "Copilot Cowork agentic system now generally available worldwide"
+  },
+  "5886d23a0852ac83": {
+    "date": "2026-07-16",
+    "headline": "Summer 26 Multi-Agent Orchestration and Momentum enable unified Agentforce workflows"
+  },
+  "443dadb4936083f4": {
+    "date": "2026-07-16",
+    "headline": "Financial services AI delivers 2-4x improvement in fraud detection and 60% fewer false alerts"
+  },
+  "fd5380cb8d6e90a4": {
+    "date": "2026-07-16",
+    "headline": "AI Hallucinations Lead to Legal Vulnerability for WJ Werzyn and West Shore"
+  },
+  "b34d7549411bd1ca": {
+    "date": "2026-07-16",
+    "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
   }
 }
