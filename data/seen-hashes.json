@@ -1,24 +1,4 @@
 {
-  "400f4e0f13a8ede6": {
-    "date": "2026-07-02",
-    "headline": "Available today: Anthropic Claude Opus 4.8 in Microsoft 365 Copilot"
-  },
-  "568049dea2a7706e": {
-    "date": "2026-07-02",
-    "headline": "The Salesforce Developer's Guide to the Summer '26 Release"
-  },
-  "88c182f7cf556ffd": {
-    "date": "2026-07-02",
-    "headline": "Toyota AI models reduce production defects by 53% and slash logistics costs by 29%"
-  },
-  "9e4c02523e4a6a3e": {
-    "date": "2026-07-02",
-    "headline": "AI chat app leak exposes 300 million messages tied to 25 million users"
-  },
-  "4e589ecc115af1ac": {
-    "date": "2026-07-02",
-    "headline": "The EU AI Act's Transparency Rules: A Practical Guide to Article 50"
-  },
   "60f0190e01ba1a83": {
     "date": "2026-07-03",
     "headline": "Claude Opus 4.8 now available in Microsoft 365 Copilot for advanced work scenarios"
@@ -170,5 +150,25 @@
   "b34d7549411bd1ca": {
     "date": "2026-07-16",
     "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
+  },
+  "a87626e9ef610ec2": {
+    "date": "2026-07-17",
+    "headline": "Schedule your most used Copilot prompts"
+  },
+  "7ad1cf51e92cd264": {
+    "date": "2026-07-17",
+    "headline": "Agentforce Builder launches with conversational workspace and one-click agent simulations"
+  },
+  "7fe74a92a08a9773": {
+    "date": "2026-07-17",
+    "headline": "Financial services back-office automation delivers 3x to 7x ROI with 8 to 18-month payback"
+  },
+  "49ea11d4f58ee721": {
+    "date": "2026-07-17",
+    "headline": "Air Canada ruled liable for AI chatbot false discount promise in landmark tribunal decision"
+  },
+  "6d970c520f4d68ce": {
+    "date": "2026-07-17",
+    "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with Article 50 transparency rules unchanged"
   }
 }
