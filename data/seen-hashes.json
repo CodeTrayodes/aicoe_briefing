@@ -1,44 +1,4 @@
 {
-  "60f0190e01ba1a83": {
-    "date": "2026-07-03",
-    "headline": "Claude Opus 4.8 now available in Microsoft 365 Copilot for advanced work scenarios"
-  },
-  "8015bd98d523f5d2": {
-    "date": "2026-07-03",
-    "headline": "Microsoft Fabric June 2026 update brings AI-first Real-Time Dashboards and GPU-accelerated Data Warehouse with 7x performance gains"
-  },
-  "2478502370aaa157": {
-    "date": "2026-07-03",
-    "headline": "AI helps financial institutions cut false positives by up to 200 percent in transaction monitoring"
-  },
-  "2e83317077d32627": {
-    "date": "2026-07-03",
-    "headline": "AI Incident Database recorded 362 documented AI incidents in 2025, up 55 percent from 2024"
-  },
-  "833d779fc6737ed2": {
-    "date": "2026-07-03",
-    "headline": "EU AI Act becomes fully enforceable on August 2 2026 making EU first jurisdiction with comprehensive AI regulation"
-  },
-  "eb72564f8aad01e5": {
-    "date": "2026-07-06",
-    "headline": "GitHub Copilot Best Practices for Top Teams (2026)"
-  },
-  "604f95ec2e47fad3": {
-    "date": "2026-07-06",
-    "headline": "Introducing Claude Sonnet 5"
-  },
-  "084f91e4da4d696d": {
-    "date": "2026-07-06",
-    "headline": "AI x Manufacturing Implementation Patterns - Predictive Maintenance, Quality Control, and Design Support [2026 Edition]"
-  },
-  "e48d93ba29d8f1f1": {
-    "date": "2026-07-06",
-    "headline": "Vercel April 2026 security incident"
-  },
-  "06033f7dbd17e68b": {
-    "date": "2026-07-06",
-    "headline": "EU AI Act Compliance Guide - Updated June 2026"
-  },
   "4b4c1da9f4109170": {
     "date": "2026-07-07",
     "headline": "Schedule your most used Copilot prompts"
@@ -170,5 +130,25 @@
   "6d970c520f4d68ce": {
     "date": "2026-07-17",
     "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with Article 50 transparency rules unchanged"
+  },
+  "72eba9cf28fc8928": {
+    "date": "2026-07-20",
+    "headline": "Unlock your productivity: Here are our Top 10 tips for using Microsoft 365 Copilot every day"
+  },
+  "5986589770af5bc7": {
+    "date": "2026-07-20",
+    "headline": "Salesforce and Anthropic Bring Trusted Business Context and AI Actions to Claude Through Slack and Agentforce 360"
+  },
+  "37ccfd95a7bc4670": {
+    "date": "2026-07-20",
+    "headline": "Manufacturing predictive maintenance delivers 12-month payback with 25-30% cost reductions"
+  },
+  "4f7c2fda0c16d1be": {
+    "date": "2026-07-20",
+    "headline": "AI Incidents H1 2026 Retrospective: Failure Modes Analysis"
+  },
+  "a9d46ed82ad9b77d": {
+    "date": "2026-07-20",
+    "headline": "EU AI Act transparency rules take effect August 2 2026 with fines up to EUR 35M or 7% revenue"
   }
 }
