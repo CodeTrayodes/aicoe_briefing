@@ -1,115 +1,43 @@
 {
-  "4b4c1da9f4109170": {
-    "date": "2026-07-07",
+  "e4912967e2b1ba1c": {
+    "date": "2026-07-21",
     "headline": "Schedule your most used Copilot prompts"
   },
-  "c8d779785ae66c67": {
-    "date": "2026-07-09",
+  "49352a83b3f401a5": {
+    "date": "2026-07-21",
     "headline": "Salesforce Launches Agentforce Help Agent That Deploys in Minutes and Only Charges for Resolutions"
   },
-  "c9028b3664a611d1": {
-    "date": "2026-07-07",
-    "headline": "JPMorgan runs 450+ AI agents in production generating investment presentations in 30 seconds"
+  "d0858f7f53bb2220": {
+    "date": "2026-07-21",
+    "headline": "Manufacturing predictive maintenance delivers 12-month payback with 25-30% cost reductions"
   },
-  "9bf8d4dd8d69b7c6": {
-    "date": "2026-07-07",
-    "headline": "AI Chatbot Cyber Attack 2026: Govt Breach Exposed"
-  },
-  "6310d2d3d805183b": {
-    "date": "2026-07-07",
-    "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
-  },
-  "c81334379d959f8a": {
-    "date": "2026-07-09",
-    "headline": "Claude Code Tips: 10 Real Productivity Workflows for 2026"
-  },
-  "443693109501d4d1": {
-    "date": "2026-07-09",
-    "headline": "AI ROI: Why Only 5% of Enterprises See Real Returns in 2026"
-  },
-  "1ff680bb68c82afb": {
-    "date": "2026-07-09",
+  "b182592620ab7e6c": {
+    "date": "2026-07-21",
     "headline": "Deloitte AI Hallucination Report: FINRA's 2026 Warning"
   },
-  "905e8d2afc03cf22": {
-    "date": "2026-07-09",
-    "headline": "EU AI Act August 2, 2026 Deadline Is Six Weeks Away"
+  "fa3d7934ee05da6a": {
+    "date": "2026-07-21",
+    "headline": "EU AI Act becomes fully enforceable August 2 2026 with transparency guidelines published July 20"
   },
-  "ca646ea46bb84411": {
-    "date": "2026-07-13",
-    "headline": "Schedule your most used Copilot prompts"
+  "72eba9cf28fc8928": {
+    "date": "2026-07-20",
+    "headline": "Unlock your productivity: Here are our Top 10 tips for using Microsoft 365 Copilot every day"
   },
-  "45d79c8ecd0a5819": {
-    "date": "2026-07-13",
-    "headline": "A new analytics frontier - GPU-accelerated Fabric Data Warehouse (Early Access Preview)"
+  "5986589770af5bc7": {
+    "date": "2026-07-20",
+    "headline": "Salesforce and Anthropic Bring Trusted Business Context and AI Actions to Claude Through Slack and Agentforce 360"
   },
-  "4e6780da47977e6d": {
-    "date": "2026-07-13",
-    "headline": "Bradesco achieves +80% resolution rate integrating Azure generative AI into BIA"
+  "37ccfd95a7bc4670": {
+    "date": "2026-07-20",
+    "headline": "Manufacturing predictive maintenance delivers 12-month payback with 25-30% cost reductions"
   },
-  "78890d7f0122e82b": {
-    "date": "2026-07-13",
-    "headline": "Nebraska Supreme Court blasts AI-authored court filings, recommends discipline"
+  "4f7c2fda0c16d1be": {
+    "date": "2026-07-20",
+    "headline": "AI Incidents H1 2026 Retrospective: Failure Modes Analysis"
   },
-  "16f7840b08ab6271": {
-    "date": "2026-07-13",
-    "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
-  },
-  "0fe443904f9d4dd4": {
-    "date": "2026-07-14",
-    "headline": "Claude deployed autonomously shipped over 800 fixes reducing error rate by 1000x in April 2026"
-  },
-  "2713737b401b7cb8": {
-    "date": "2026-07-14",
-    "headline": "GPU-accelerated Fabric Data Warehouse delivers 7x performance gains at early access"
-  },
-  "470bacae70794b18": {
-    "date": "2026-07-14",
-    "headline": "JPMorgan runs 450 AI agents in production generating investment presentations in 30 seconds"
-  },
-  "c54a519584c89aa4": {
-    "date": "2026-07-14",
-    "headline": "Mexican Government Agencies breach via Claude Code and ChatGPT compromised 195 million records"
-  },
-  "f59177a08969d50d": {
-    "date": "2026-07-14",
-    "headline": "EU AI Act August 2 2026 Deadline Is Six Weeks Away"
-  },
-  "c8ab5b9f33fb3dca": {
-    "date": "2026-07-15",
-    "headline": "Salesforce Agentforce Commerce Goes GA with Native ChatGPT Integration"
-  },
-  "a8e0f3b77c4d29e1": {
-    "date": "2026-07-15",
-    "headline": "Continental AG cuts tire manufacturing downtime 37% saving EUR 8M annually with predictive maintenance AI"
-  },
-  "5e97f4a8c12b9d63": {
-    "date": "2026-07-15",
-    "headline": "Accenture confirms breach after hacker steals 35GB of source code and cloud access keys"
-  },
-  "bb7e13c6f7a8d042": {
-    "date": "2026-07-15",
-    "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with fines up to EUR 35M or 7% of global revenue"
-  },
-  "7aaedae87bf8dd66": {
-    "date": "2026-07-16",
-    "headline": "Copilot Cowork agentic system now generally available worldwide"
-  },
-  "5886d23a0852ac83": {
-    "date": "2026-07-16",
-    "headline": "Summer 26 Multi-Agent Orchestration and Momentum enable unified Agentforce workflows"
-  },
-  "443dadb4936083f4": {
-    "date": "2026-07-16",
-    "headline": "Financial services AI delivers 2-4x improvement in fraud detection and 60% fewer false alerts"
-  },
-  "fd5380cb8d6e90a4": {
-    "date": "2026-07-16",
-    "headline": "AI Hallucinations Lead to Legal Vulnerability for WJ Werzyn and West Shore"
-  },
-  "b34d7549411bd1ca": {
-    "date": "2026-07-16",
-    "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
+  "a9d46ed82ad9b77d": {
+    "date": "2026-07-20",
+    "headline": "EU AI Act transparency rules take effect August 2 2026 with fines up to EUR 35M or 7% revenue"
   },
   "a87626e9ef610ec2": {
     "date": "2026-07-17",
@@ -131,24 +59,64 @@
     "date": "2026-07-17",
     "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with Article 50 transparency rules unchanged"
   },
-  "72eba9cf28fc8928": {
-    "date": "2026-07-20",
-    "headline": "Unlock your productivity: Here are our Top 10 tips for using Microsoft 365 Copilot every day"
+  "7aaedae87bf8dd66": {
+    "date": "2026-07-16",
+    "headline": "Copilot Cowork agentic system now generally available worldwide"
   },
-  "5986589770af5bc7": {
-    "date": "2026-07-20",
-    "headline": "Salesforce and Anthropic Bring Trusted Business Context and AI Actions to Claude Through Slack and Agentforce 360"
+  "5886d23a0852ac83": {
+    "date": "2026-07-16",
+    "headline": "Summer 26 Multi-Agent Orchestration and Momentum enable unified Agentforce workflows"
   },
-  "37ccfd95a7bc4670": {
-    "date": "2026-07-20",
-    "headline": "Manufacturing predictive maintenance delivers 12-month payback with 25-30% cost reductions"
+  "443dadb4936083f4": {
+    "date": "2026-07-16",
+    "headline": "Financial services AI delivers 2-4x improvement in fraud detection and 60% fewer false alerts"
   },
-  "4f7c2fda0c16d1be": {
-    "date": "2026-07-20",
-    "headline": "AI Incidents H1 2026 Retrospective: Failure Modes Analysis"
+  "fd5380cb8d6e90a4": {
+    "date": "2026-07-16",
+    "headline": "AI Hallucinations Lead to Legal Vulnerability for WJ Werzyn and West Shore"
   },
-  "a9d46ed82ad9b77d": {
-    "date": "2026-07-20",
-    "headline": "EU AI Act transparency rules take effect August 2 2026 with fines up to EUR 35M or 7% revenue"
+  "b34d7549411bd1ca": {
+    "date": "2026-07-16",
+    "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
+  },
+  "c8ab5b9f33fb3dca": {
+    "date": "2026-07-15",
+    "headline": "Salesforce Agentforce Commerce Goes GA with Native ChatGPT Integration"
+  },
+  "a8e0f3b77c4d29e1": {
+    "date": "2026-07-15",
+    "headline": "Continental AG cuts tire manufacturing downtime 37% saving EUR 8M annually with predictive maintenance AI"
+  },
+  "5e97f4a8c12b9d63": {
+    "date": "2026-07-15",
+    "headline": "Accenture confirms breach after hacker steals 35GB of source code and cloud access keys"
+  },
+  "bb7e13c6f7a8d042": {
+    "date": "2026-07-15",
+    "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with fines up to EUR 35M or 7% of global revenue"
+  },
+  "0fe443904f9d4dd4": {
+    "date": "2026-07-14",
+    "headline": "Claude deployed autonomously shipped over 800 fixes reducing error rate by 1000x in April 2026"
+  },
+  "2713737b401b7cb8": {
+    "date": "2026-07-14",
+    "headline": "GPU-accelerated Fabric Data Warehouse delivers 7x performance gains at early access"
+  },
+  "470bacae70794b18": {
+    "date": "2026-07-14",
+    "headline": "JPMorgan runs 450 AI agents in production generating investment presentations in 30 seconds"
+  },
+  "c54a519584c89aa4": {
+    "date": "2026-07-14",
+    "headline": "Mexican Government Agencies breach via Claude Code and ChatGPT compromised 195 million records"
+  },
+  "f59177a08969d50d": {
+    "date": "2026-07-14",
+    "headline": "EU AI Act August 2 2026 Deadline Is Six Weeks Away"
+  },
+  "16f7840b08ab6271": {
+    "date": "2026-07-13",
+    "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
   }
 }
