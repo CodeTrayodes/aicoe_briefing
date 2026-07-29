@@ -115,26 +115,6 @@
     "date": "2026-07-15",
     "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with fines up to EUR 35M or 7% of global revenue"
   },
-  "0fe443904f9d4dd4": {
-    "date": "2026-07-14",
-    "headline": "Claude deployed autonomously shipped over 800 fixes reducing error rate by 1000x in April 2026"
-  },
-  "2713737b401b7cb8": {
-    "date": "2026-07-14",
-    "headline": "GPU-accelerated Fabric Data Warehouse delivers 7x performance gains at early access"
-  },
-  "470bacae70794b18": {
-    "date": "2026-07-14",
-    "headline": "JPMorgan runs 450 AI agents in production generating investment presentations in 30 seconds"
-  },
-  "c54a519584c89aa4": {
-    "date": "2026-07-14",
-    "headline": "Mexican Government Agencies breach via Claude Code and ChatGPT compromised 195 million records"
-  },
-  "f59177a08969d50d": {
-    "date": "2026-07-14",
-    "headline": "EU AI Act August 2 2026 Deadline Is Six Weeks Away"
-  },
   "ba2e4c4f40bf5954": {
     "date": "2026-07-22",
     "headline": "Copilot Vision lets you share your screen or point your camera and AI explains what it sees"
@@ -214,5 +194,25 @@
   "ee8cca5aac58bb6d": {
     "date": "2026-07-28",
     "headline": "EU AI Act transparency obligations enforceable August 2 2026 with fines up to EUR 15M or 3% revenue"
+  },
+  "04702432c3d7fea5": {
+    "date": "2026-07-29",
+    "headline": "Scheduled Prompts - By scheduling prompts Copilot can run questions automatically on a daily weekly or monthly cadence"
+  },
+  "07387857472099f8": {
+    "date": "2026-07-29",
+    "headline": "Agentforce Help Agent and Customer Service Portal became generally available in July 2026"
+  },
+  "eb3b05c6675fb63b": {
+    "date": "2026-07-29",
+    "headline": "JPMorgan generates investment banking presentations in 30 seconds with agentic AI agents"
+  },
+  "3ec6f78fa6294eef": {
+    "date": "2026-07-29",
+    "headline": "The 2026 Legal AI Reckoning A Case-by-Case Breakdown of Every Major Hallucination Incident This Year"
+  },
+  "699327e9dd0f9258": {
+    "date": "2026-07-29",
+    "headline": "U.S. Companies Face EU AI Acts Possible August 2026 Compliance Deadline"
   }
 }
