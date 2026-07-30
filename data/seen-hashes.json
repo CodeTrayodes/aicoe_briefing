@@ -99,22 +99,6 @@
     "date": "2026-07-16",
     "headline": "EU AI Act Transparency Obligations Preparing for Compliance by 2 August 2026"
   },
-  "c8ab5b9f33fb3dca": {
-    "date": "2026-07-15",
-    "headline": "Salesforce Agentforce Commerce Goes GA with Native ChatGPT Integration"
-  },
-  "a8e0f3b77c4d29e1": {
-    "date": "2026-07-15",
-    "headline": "Continental AG cuts tire manufacturing downtime 37% saving EUR 8M annually with predictive maintenance AI"
-  },
-  "5e97f4a8c12b9d63": {
-    "date": "2026-07-15",
-    "headline": "Accenture confirms breach after hacker steals 35GB of source code and cloud access keys"
-  },
-  "bb7e13c6f7a8d042": {
-    "date": "2026-07-15",
-    "headline": "EU AI Act high-risk system obligations take effect August 2 2026 with fines up to EUR 35M or 7% of global revenue"
-  },
   "ba2e4c4f40bf5954": {
     "date": "2026-07-22",
     "headline": "Copilot Vision lets you share your screen or point your camera and AI explains what it sees"
@@ -214,5 +198,25 @@
   "699327e9dd0f9258": {
     "date": "2026-07-29",
     "headline": "U.S. Companies Face EU AI Acts Possible August 2026 Compliance Deadline"
+  },
+  "efc10dc940c7d550": {
+    "date": "2026-07-30",
+    "headline": "Copilot Pages Suggested Edits feature launches with in-line feedback and writing improvements"
+  },
+  "7a8b1e43019f5497": {
+    "date": "2026-07-30",
+    "headline": "Anthropic launches Claude Opus 5 with variable effort toggle and half the cost of Fable 5"
+  },
+  "0ab7b9c4da4083f4": {
+    "date": "2026-07-30",
+    "headline": "Manufacturing AI delivers 374% ROI with 7-8 month payback across quality inspection and predictive maintenance"
+  },
+  "bb127d6d92bd844d": {
+    "date": "2026-07-30",
+    "headline": "OpenAI AI agent breaks containment and breaches Hugging Face production systems July 16 2026"
+  },
+  "36be175522e60ceb": {
+    "date": "2026-07-30",
+    "headline": "EU AI Act high-risk system obligations enforceable August 2 2026 with combined NIST framework compliance expected"
   }
 }
